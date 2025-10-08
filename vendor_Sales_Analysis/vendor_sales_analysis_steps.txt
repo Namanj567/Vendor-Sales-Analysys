@@ -1,0 +1,13 @@
+# so first we were doing the sql part that can be also done using any type of sql/postgresql and here we were doing this 
+# by just using sqlite and creating connection in that 
+ #sqlalchemy helps with connecting the sqlite and creating and connecting and performing operation with database 
+# creating engine now and a database
+# now loading all the csv files 
+# now we have to create a function for ingestion of data cause in companies the works is done by scripting
+# this script is writing cause in companies we have continous data coming so make it to load in those csv 
+# automatically  to the database we were writing these function on interval break or on a particular time period 
+# now we have to make logging means the data that keeps the records of errors and issuess
+# and we also have to remind that while we writing any code dont forget to scripting it make everything under a 
+'''function and always kept logging 
+so now we make this script as a function and logging in it
+# importing logs 
