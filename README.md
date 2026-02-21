@@ -29,4 +29,4 @@ Libraries: pandas, matplotlib, seaborn, numpy
 
 Organization
 
-This project was developed during my tenure at JS Infotech, as part of a data analytics initiative to enhance vendor management and reporting efficiency.
+This project was developed at JS Infotech, as part of a data analytics initiative to enhance vendor management and reporting efficiency.
